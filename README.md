@@ -1,2 +1,2 @@
 # Near-Protocol 
-Mine Near Account - sunnipag.near
+Mine Testnet & Mainnet Near Account - sunnipag.near
