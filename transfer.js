@@ -31,7 +31,7 @@ const options = {
 
 // Configure transaction details
 const txSender = options.accountId;
-const txReceiver = "figment-learn.testnet";
+const txReceiver = "figment.testnet";
 const txAmount = formatAmount(1);
 
 async function main() {
